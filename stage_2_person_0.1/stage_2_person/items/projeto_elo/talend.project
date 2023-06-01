@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_QmYsoGHpEe2Ck5SOPy__qQ" label="Projeto_ELO" description="" language="java" technicalLabel="PROJETO_ELO" local="true" author="_QmZTsGHpEe2Ck5SOPy__qQ" productVersion="Talend Open Studio for Big Data-7.3.1.20200219_1130" itemsRelationVersion="1.3">
+    <componentsSettings xmi:id="_daM-wOEcEe2-fqBrkWAYZg" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_daM-weEcEe2-fqBrkWAYZg" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_daM-wuEcEe2-fqBrkWAYZg" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_daM-w-EcEe2-fqBrkWAYZg" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_xJW3sOEhEe2-fqBrkWAYZg" name="DI|tAccessBulkExec" family="Databases/DB Specifics/Access"/>
+    <componentsSettings xmi:id="_xJW3seEhEe2-fqBrkWAYZg" name="DI|tHashInput" family="Technical"/>
+    <componentsSettings xmi:id="_xJXewOEhEe2-fqBrkWAYZg" name="DI|tMemSQLRow" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJXeweEhEe2-fqBrkWAYZg" name="DI|tCouchDBClose" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYF0OEhEe2-fqBrkWAYZg" name="DI|tCouchDBConnection" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYF0eEhEe2-fqBrkWAYZg" name="DI|tCouchDBOutput" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYF0uEhEe2-fqBrkWAYZg" name="DI|tMemSQLInput" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYF0-EhEe2-fqBrkWAYZg" name="DI|tHashOutput" family="Technical"/>
+    <componentsSettings xmi:id="_xJYF1OEhEe2-fqBrkWAYZg" name="DI|tAccessOutputBulkExec" family="Databases/DB Specifics/Access"/>
+    <componentsSettings xmi:id="_xJYF1eEhEe2-fqBrkWAYZg" name="DI|CouchbaseInput" family="Databases NoSQL/Couchbase"/>
+    <componentsSettings xmi:id="_xJYs4OEhEe2-fqBrkWAYZg" name="DI|tMemSQLConnection" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYs4eEhEe2-fqBrkWAYZg" name="DI|tMemSQLOutput" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYs4uEhEe2-fqBrkWAYZg" name="DI|tArray" family="Technical"/>
+    <componentsSettings xmi:id="_xJYs4-EhEe2-fqBrkWAYZg" name="DI|tCouchDBInput" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYs5OEhEe2-fqBrkWAYZg" name="DI|tMemSQLClose" family="Deprecated"/>
+    <componentsSettings xmi:id="_xJYs5eEhEe2-fqBrkWAYZg" name="DI|tSAPBWInput" family="Business/SAP"/>
+    <componentsSettings xmi:id="_xJYs5uEhEe2-fqBrkWAYZg" name="DI|tArrayIn" family="Technical"/>
+    <componentsSettings xmi:id="_xJYs5-EhEe2-fqBrkWAYZg" name="DI|CouchbaseOutput" family="Databases NoSQL/Couchbase"/>
+    <migrationTask xmi:id="_QqnsYGHpEe2Ck5SOPy__qQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_QmZTsGHpEe2Ck5SOPy__qQ" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
